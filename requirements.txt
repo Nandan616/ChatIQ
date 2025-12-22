@@ -1,0 +1,16 @@
+streamlit
+matplotlib
+urlextract
+seaborn
+wordcloud
+pandas
+emoji
+networkx
+nltk
+numpy
+plotly
+prophet
+scikit-learn
+textblob
+fpdf
+XlsxWriter
