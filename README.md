@@ -1,4 +1,4 @@
-# 📌 Chat Analytics Pro – Advanced Chat Data Analysis Using NLP & ML  
+# 📌 ChatIQ – Advanced Chat Data Analysis Using NLP & ML  
 
 ## 📂 Project Overview  
 Chat Analytics Pro is a powerful **Natural Language Processing (NLP)** and **Machine Learning (ML)** tool designed to analyze chat data, extract key insights, detect conversation patterns, and predict future trends.  
